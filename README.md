@@ -36,4 +36,4 @@ The following HTML pages are included in this project:
 ## MIT License
 * **allows users to use, copy, modify, merge, publish, distribute, sublicense,
 ---
-*Generated based on commit history from the repository.*
+
